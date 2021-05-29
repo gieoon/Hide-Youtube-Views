@@ -11,3 +11,7 @@ I'm working on moving this to the Desktop.
  
 1. Because it's easy (Just CSS stuff).
 2. Because views and likes can be distracting. It takes a bit to get used to, but it can be quite an interesting experience.
+
+# What is going to be adding next?
+
+1. Ability to guess the number of views on a video (Useful for learning about marketing)

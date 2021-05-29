@@ -1,23 +1,38 @@
+/* Number of views on main video */
 .view-count {
     display: none!important;
 }
 
+/* Dot in front of date */
 #date #dot {
     display: none!important;
 }
 
 #vote-count-middle {
-    display: none!important;
+    /* display: none!important; */
 }
 
+/* Number of likes on a comment */
 #metadata-line > span:nth-child(1) {
     display: none!important;
 }
 
+/* Number of likes on main video */
 #menu-container #top-level-buttons-computed .ytd-menu-renderer.style-text #text {
     display: none!important;
 }
 
+/* Number of likes on main video after pressing the like button */
+#menu-container #top-level-buttons-computed .ytd-menu-renderer .style-default-active:not(#button) {
+    display: none!important;
+}
+
+/* Video Uploader's subscriber count */
 #owner-sub-count {
     display: none!important;
+}
+
+/* Remove highlight effect on the sentiment bar which displays likes/dislikes ratio */
+#sentiment {
+    pointer-events: none!important;
 }
