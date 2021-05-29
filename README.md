@@ -1,5 +1,9 @@
+
 # How to use
 
+![Example image](https://github.com/gieoon/Hide-Youtube-Views/example.png)
+
+I'm publishing this on the Chrome Extension store. But until then,
 1. Either `$ git clone https://github.com/gieoon/Hide-Youtube-Views.git` or zip the git repository and add it somewhere.
 2. Go to your the Extensions in your Chrome browser [chrome://extensions/](chrome://extensions/)
 3. Click __Load unpacked__

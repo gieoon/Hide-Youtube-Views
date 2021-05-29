@@ -8,11 +8,12 @@
     display: none!important;
 }
 
+/* Number of likes on a comment */
 #vote-count-middle {
-    /* display: none!important; */
+    display: none!important;
 }
 
-/* Number of likes on a comment */
+/* Number of views on a recommended video */
 #metadata-line > span:nth-child(1) {
     display: none!important;
 }
