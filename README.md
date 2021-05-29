@@ -1,7 +1,7 @@
 
 # How to use
 
-![Example image](https://github.com/gieoon/Hide-Youtube-Views/example.png)
+![Example image](https://github.com/gieoon/Hide-Youtube-Views/blob/master/example.png)
 
 I'm publishing this on the Chrome Extension store. But until then,
 1. Either `$ git clone https://github.com/gieoon/Hide-Youtube-Views.git` or zip the git repository and add it somewhere.
