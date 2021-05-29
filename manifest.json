@@ -20,7 +20,7 @@
         "48": "/youtube_hide_views.png",
         "128": "/youtube_hide_views.png"
     },
-    "permissions": ["storage", "activeTab", "scripting"],
+    "permissions": ["activeTab", "scripting"],
     "options_page": "options.html",
     "content_scripts": [
         {
