@@ -1,6 +1,13 @@
 
 # How to use
 
+See no more:
+- The number of views of the video 
+- The number of views of recommended videos. 
+- The number of likes/dislikes of the video
+- The number of likes/dislikes for each comment.
+- The number of subscribers the uploader has.
+
 ![Example image](https://github.com/gieoon/Hide-Youtube-Views/blob/master/example.png)
 
 I'm publishing this on the Chrome Extension store. But until then,
@@ -19,3 +26,8 @@ I'm working on moving this to the Desktop.
 # What is going to be adding next?
 
 1. Ability to guess the number of views on a video (Useful for learning about marketing)
+
+# Keywords
+
+- Groupthink
+- Social Proof
