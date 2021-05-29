@@ -1,0 +1,23 @@
+.view-count {
+    display: none!important;
+}
+
+#date #dot {
+    display: none!important;
+}
+
+#vote-count-middle {
+    display: none!important;
+}
+
+#metadata-line > span:nth-child(1) {
+    display: none!important;
+}
+
+#menu-container #top-level-buttons-computed .ytd-menu-renderer.style-text #text {
+    display: none!important;
+}
+
+#owner-sub-count {
+    display: none!important;
+}

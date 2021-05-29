@@ -1,0 +1,33 @@
+{
+    "name": "Youtube Hide Views",
+    "description": "",
+    "version": "1.0",
+    "manifest_version": 3,
+    "background": {
+        "service_worker": "background.js"
+    },
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": {
+            "16": "/youtube_hide_views.png",
+            "32": "/youtube_hide_views.png",
+            "48": "/youtube_hide_views.png",
+            "128": "/youtube_hide_views.png"
+        }
+    },
+    "icons": {
+        "16": "/youtube_hide_views.png",
+        "32": "/youtube_hide_views.png",
+        "48": "/youtube_hide_views.png",
+        "128": "/youtube_hide_views.png"
+    },
+    "permissions": ["storage", "activeTab", "scripting"],
+    "options_page": "options.html",
+    "content_scripts": [
+        {
+          "matches": ["https://*.youtube.com/*"],
+          "css": ["content.css"],
+          "js": ["contentScript.js"]
+        }
+    ]
+}
